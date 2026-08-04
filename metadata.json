@@ -1,0 +1,6 @@
+{
+  "name": "Wireshark Packet Viewer & Analytics",
+  "description": "Real-time network traffic analytics dashboard and Wireshark packet analyzer with AI security insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
